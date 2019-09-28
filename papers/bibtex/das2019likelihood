@@ -1,8 +1,0 @@
-@misc{das2019likelihood,
-    title={Likelihood Contribution based Multi-scale Architecture for Generative Flows},
-    author={Hari Prasanna Das and Pieter Abbeel and Costas J. Spanos},
-    year={2019},
-    eprint={1908.01686},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
-}
