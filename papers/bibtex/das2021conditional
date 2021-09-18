@@ -1,0 +1,8 @@
+@misc{das2021cdcgen,
+      title={CDCGen: Cross-Domain Conditional Generation via Normalizing Flows and Adversarial Training}, 
+      author={Hari Prasanna Das and Ryan Tran and Japjot Singh and Yu-Wen Lin and Costas J. Spanos},
+      year={2021},
+      eprint={2108.11368},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
